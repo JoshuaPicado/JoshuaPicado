@@ -1,13 +1,14 @@
-# ¡Bienvenido a mi repositorio! 🎉
+# Hola, soy Joshua Picado 🎉
 
 ## Sobre mí 👨‍💻
-Soy un apasionado de la programación con experiencia en estructuras de datos, programación orientada a objetos y bases de datos. Actualmente participo en proyectos de investigación del TEC, enfocado en resolver problemas complejos y explorar la complejidad algorítmica. Busco convertirme en un desarrollador full stack bilingüe (español/inglés).
-
-### Mis Fortalezas:
-- **Responsabilidad:** Compromiso con cada proyecto.
-- **Perseverancia:** Persisto hasta alcanzar resultados.
-- **Liderazgo:** Trabajo colaborativo y enseñanza.
-- **Mi lema:** *"Si yo lo sé, te lo puedo enseñar".*
+💻 Soy un amante de la programación actualmente enfocado en estructuras de datos, programación orientada a objetos y apliaciones con gestion bases de datos.
+🔬 Participo en proyectos de investigación del TEC, enfocados en la ciencia de datos.
+🔧 Encuentro soluciones a problemas reales mediante el desarrollo de software.
+📊 Me apasionan las matemáticas.
+🌍 Estoy en camino de ser una persona bilingüe.
+🛠️ Trabajo fuerte para convertirme en un desarrollador full stack.
+🌟 Mis cualidades destacan la responsabilidad, el trabajo duro, la perseverancia y el liderazgo.
+🎓 Mi lema es: "Si yo lo sé, te lo puedo enseñar".
 
 ---
 
@@ -17,16 +18,17 @@ Soy un apasionado de la programación con experiencia en estructuras de datos, p
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://c1.klipartz.com/pngpicture/264/529/sticker-png-java-logo-java-platform-standard-edition-java-servlet-programming-language-computer-software-java-development-kit-java-platform-enterprise-edition-java-runtime-environment.png" alt="Java" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://www.manualweb.net/img/logos/java.png" alt="Java" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNu6NmvKm0sXhLiAMTedt27xLRtlhuq_nYy3d5IYtcvkExJKLZUlJn-_kp1nYtt44rQzY&usqp=CAU" alt="ASM" width="40" height="40" style="margin-right: 15px;" />
 
 </p>
 
 ### Bases de Datos
 <p>
   <img src="https://github.com/JoshuaPicado/Proyecto-Taller-Etapa-1/blob/main/pngwing.com.png?raw=true" alt="SQL Server Management Studio" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://www.gstatic.com/devrel-devsite/prod/vf91ff2ec2a3a03360b9eab1e7c45715546a495e1e7d6eaa33a3b89d113581526/firebase/images/lockup.png" alt="Firebase" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="40" height="40" style="margin-right: 15px;" />
 </p>
 
 
@@ -45,7 +47,7 @@ Soy un apasionado de la programación con experiencia en estructuras de datos, p
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://e7.pngegg.com/pngimages/116/783/png-clipart-android-logo-android-text-logo.png" alt="Android" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://www.liderlogo.es/wp-content/uploads/2022/12/Logo-Android-1024x640.png" alt="Android" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://i2.wp.com/www.uhu.es/osl/wp-content/uploads/2018/06/1.png?fit=256%2C256" alt="Tinkercad" width="40" height="40" style="margin-right: 15px;" />
 </p>
 
