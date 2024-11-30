@@ -53,11 +53,11 @@
 
 ### **Connect with Me** 🌐
 <p>
-  <a href="https://www.linkedin.com/in/joshua-jose-picado-jarqu%C3%ADn-b1891632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/joshua-jose-picado-jarqu%C3%ADn-b1891632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="text-decoration: none;">
     <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.instagram.com/joshua_picado/profilecard/?igsh=MWlzNjR5emkyeHlqag==" target="_blank">
-    <img src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logosu.png" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
+  <a href="https://www.instagram.com/joshua_picado/profilecard/?igsh=MWlzNjR5emkyeHlqag==" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
   </a>
 </p>
 
