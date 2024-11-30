@@ -21,7 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNu6NmvKm0sXhLiAMTedt27xLRtlhuq_nYy3d5IYtcvkExJKLZUlJn-_kp1nYtt44rQzY&usqp=CAU" alt="ASM" width="40" height="40" style="margin-right: 15px;" />
-  
+
 </p>
 
 ### Databases
@@ -57,7 +57,7 @@
     <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
   </a>
   <a href="https://www.instagram.com/joshua_picado/profilecard/?igsh=MWlzNjR5emkyeHlqag==" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
+    <img src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logosu.png" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
   </a>
 </p>
 
