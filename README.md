@@ -1,19 +1,19 @@
-# Hola, soy Joshua Picado 🎉
+# Hi, I'm Joshua Picado 
 
-## Sobre mí 👨‍💻
-- 💻 Soy un amante de la **programación**, actualmente enfocado en estructuras de datos, programación orientada a objetos y aplicaciones con gestión de bases de datos.
-- 🔬 Participo en **proyectos de investigación del TEC**, enfocados en la ciencia de datos.
-- 🔧 Encuentro **soluciones a problemas reales** mediante el desarrollo de software.
-- 📊 Me apasionan las **matemáticas**.
-- 🌍 Estoy en camino de ser una **persona bilingüe**.
-- 🛠️ Trabajo fuerte para convertirme en un **desarrollador full stack**.
-- 🌟 Destaco por mi **responsabilidad**, **trabajo duro**, **perseverancia** y **liderazgo**.
-- 🎓 Mi lema es: *"Si yo lo sé, te lo puedo enseñar".*
+## About Me 👨‍💻
+- 💻 Passionate about **programming**, currently focused on data structures, object-oriented programming, and applications with database management.
+- 🔬 Participate in **research projects at TEC**, related to data science.
+- 🔧 Love finding **solutions to real-world problems** through software development.
+- 📊 **Mathematics** is one of my greatest passions.
+- 🌍 I am on the path to becoming a **bilingual person** (Spanish and English).
+- 🛠️ Work hard to become a **full stack developer**.
+- 🌟 My strengths include **effective communication skills**, as well as **responsibility**, **hard work**, **perseverance**, and **leadership**.
+- 🎓 I strongly believe in collaborative learning, which is why my motto is: *"If I know it, I can teach it to you."*
 
 ---
-## 🛠️ Tecnologías que manejo
+## 🛠️ Technologies 
 
-### Lenguajes de Programación
+### Programming Languages
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" style="margin-right: 15px;" />
@@ -21,24 +21,23 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNu6NmvKm0sXhLiAMTedt27xLRtlhuq_nYy3d5IYtcvkExJKLZUlJn-_kp1nYtt44rQzY&usqp=CAU" alt="ASM" width="40" height="40" style="margin-right: 15px;" />
-
+  
 </p>
 
-### Bases de Datos
+### Databases
 <p>
   <img src="https://github.com/JoshuaPicado/Proyecto-Taller-Etapa-1/blob/main/pngwing.com.png?raw=true" alt="SQL Server Management Studio" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="40" height="40" style="margin-right: 15px;" />
 </p>
 
-
-### Desarrollo Frontend
+### Frontend Development
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40" style="margin-right: 15px;" />
 </p>
 
-### Herramientas Tecnológicas
+### Tools & Technologies
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="GitBash" width="40" height="40" style="margin-right: 15px;" />
@@ -52,7 +51,7 @@
 
 ---
 
-### **Conéctate conmigo** 🌐
+### **Connect with Me** 🌐
 <p>
   <a href="https://www.linkedin.com/in/joshua-jose-picado-jarqu%C3%ADn-b1891632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
