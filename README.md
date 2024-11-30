@@ -25,7 +25,7 @@ Soy un apasionado de la programación con experiencia en estructuras de datos, p
 
 ### Bases de Datos
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/SqlServerManagementStudio.png" alt="SQL Server Management Studio" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_SQL_Server_Logo.svg" alt="SQL Server Management Studio" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://www.gstatic.com/devrel-devsite/prod/vf91ff2ec2a3a03360b9eab1e7c45715546a495e1e7d6eaa33a3b89d113581526/firebase/images/lockup.png" alt="Firebase" width="40" height="40" style="margin-right: 15px;" />
 </p>
 
