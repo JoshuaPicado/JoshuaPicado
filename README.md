@@ -58,7 +58,7 @@
   </a>
   <a href="https://www.instagram.com/joshua_picado/profilecard/?igsh=MWlzNjR5emkyeHlqag==" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
-  </a>
+
 </p>
 
 ---
