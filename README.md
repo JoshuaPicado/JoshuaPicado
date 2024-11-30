@@ -15,42 +15,42 @@ Soy un apasionado de la programación con experiencia en estructuras de datos, p
 
 ### Lenguajes de Programación
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg" alt="C#" width="40" height="40" style="color: #239120; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" alt="C++" width="40" height="40" style="color: #00599C; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" alt="Java" width="40" height="40" style="color: #007396; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="color: #F7DF1E; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" width="40" height="40" style="color: #3776AB; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sqlite.svg" alt="SQL" width="40" height="40" style="color: #003B57; margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
 ### Bases de Datos
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftsqlserver.svg" alt="SQL Server" width="40" height="40" style="color: #CC2927; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg" alt="Firebase" width="40" height="40" style="color: #FFCA28; margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 ### Desarrollo Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" width="40" height="40" style="color: #E34F26; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="40" height="40" style="color: #61DAFB; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" alt="Node.js" width="40" height="40" style="color: #339933; margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 ### Herramientas Tecnológicas
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="40" height="40" style="color: #181717; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="GitBash" width="40" height="40" style="color: #F05032; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" alt="Visual Studio" width="40" height="40" style="color: #5C2D91; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40" style="color: #007ACC; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachenetbeanside.svg" alt="NetBeans" width="40" height="40" style="color: #1B6AC6; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeblocks.svg" alt="Code Blocks" width="40" height="40" style="color: #F4D400; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/android.svg" alt="Android" width="40" height="40" style="color: #3DDC84; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/npm.svg" alt="npm" width="40" height="40" style="color: #CB3837; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/latex.svg" alt="LaTeX" width="40" height="40" style="color: #008080; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vite.svg" alt="Vite" width="40" height="40" style="color: #646CFF; margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Multisim_Logo.svg" alt="Multisim" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/arduino.svg" alt="Arduino IDE" width="40" height="40" style="color: #00979D; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tinkercad.svg" alt="Tinkercad" width="40" height="40" style="color: #FF6600; margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitBash-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GitBash" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/Code::Blocks-F4D400?style=for-the-badge&logo=codeblocks&logoColor=black" alt="Code Blocks" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Multisim-008080?style=for-the-badge&logoColor=white" alt="Multisim" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://img.shields.io/badge/Tinkercad-FF6600?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
 </p>
 
 ---
