@@ -1,17 +1,16 @@
 # Hola, soy Joshua Picado 🎉
 
 ## Sobre mí 👨‍💻
-💻 Soy un amante de la programación actualmente enfocado en estructuras de datos, programación orientada a objetos y apliaciones con gestion bases de datos.
-🔬 Participo en proyectos de investigación del TEC, enfocados en la ciencia de datos.
-🔧 Encuentro soluciones a problemas reales mediante el desarrollo de software.
-📊 Me apasionan las matemáticas.
-🌍 Estoy en camino de ser una persona bilingüe.
-🛠️ Trabajo fuerte para convertirme en un desarrollador full stack.
-🌟 Mis cualidades destacan la responsabilidad, el trabajo duro, la perseverancia y el liderazgo.
-🎓 Mi lema es: "Si yo lo sé, te lo puedo enseñar".
+- 💻 Soy un amante de la **programación**, actualmente enfocado en estructuras de datos, programación orientada a objetos y aplicaciones con gestión de bases de datos.
+- 🔬 Participo en **proyectos de investigación del TEC**, enfocados en la ciencia de datos.
+- 🔧 Encuentro **soluciones a problemas reales** mediante el desarrollo de software.
+- 📊 Me apasionan las **matemáticas**.
+- 🌍 Estoy en camino de ser una **persona bilingüe**.
+- 🛠️ Trabajo fuerte para convertirme en un **desarrollador full stack**.
+- 🌟 Destaco por mi **responsabilidad**, **trabajo duro**, **perseverancia** y **liderazgo**.
+- 🎓 Mi lema es: *"Si yo lo sé, te lo puedo enseñar".*
 
 ---
-
 ## 🛠️ Tecnologías que manejo
 
 ### Lenguajes de Programación
@@ -49,6 +48,18 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://www.liderlogo.es/wp-content/uploads/2022/12/Logo-Android-1024x640.png" alt="Android" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://i2.wp.com/www.uhu.es/osl/wp-content/uploads/2018/06/1.png?fit=256%2C256" alt="Tinkercad" width="40" height="40" style="margin-right: 15px;" />
+</p>
+
+---
+
+### **Conéctate conmigo** 🌐
+<p>
+  <a href="https://www.linkedin.com/in/joshua-jose-picado-jarqu%C3%ADn-b1891632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.instagram.com/joshua_picado/profilecard/?igsh=MWlzNjR5emkyeHlqag==" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
+  </a>
 </p>
 
 ---
