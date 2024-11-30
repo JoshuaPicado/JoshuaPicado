@@ -17,10 +17,10 @@ Soy un apasionado de la programación con experiencia en estructuras de datos, p
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/de/c/cd/Java_Logo.svg" alt="Java" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://c1.klipartz.com/pngpicture/264/529/sticker-png-java-logo-java-platform-standard-edition-java-servlet-programming-language-computer-software-java-development-kit-java-platform-enterprise-edition-java-runtime-environment.png" alt="Java" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40" style="margin-right: 15px;" />
+
 </p>
 
 ### Bases de Datos
@@ -45,8 +45,8 @@ Soy un apasionado de la programación con experiencia en estructuras de datos, p
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40" style="margin-right: 15px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Android_robot.svg" alt="Android" width="40" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tinkercad.svg" alt="Tinkercad" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://e7.pngegg.com/pngimages/116/783/png-clipart-android-logo-android-text-logo.png" alt="Android" width="40" height="40" style="margin-right: 15px;" />
+  <img src="https://i2.wp.com/www.uhu.es/osl/wp-content/uploads/2018/06/1.png?fit=256%2C256" alt="Tinkercad" width="40" height="40" style="margin-right: 15px;" />
 </p>
 
 ---
